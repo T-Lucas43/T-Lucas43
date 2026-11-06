@@ -47,7 +47,7 @@ Entre os meus projetos estão o ecossistema **Norium & Nora**, as soluções de 
 | Área | Repositórios |
 | --- | --- |
 | Web & experiências | [Camilly Oliveira](https://github.com/T-Lucas43/Site_Camilly) · [Rush LAN](https://github.com/T-Lucas43/rushLan) · [Zona 7 · Terminal](https://github.com/T-Lucas43/Zona_7) |
-| E-commerce | [Cyber · Frontend](https://github.com/T-Lucas43/cyber-web_front) · [Cyber · Front](https://github.com/T-Lucas43/cyber-web-front) · Cyber Backend (privado; revisão de credenciais) |
+| E-commerce | Cyber Frontend (fork privado) · [Cyber · Front](https://github.com/T-Lucas43/cyber-web-front) · Cyber Backend (privado; revisão de credenciais) |
 | Integrações | [Norium · WhatsApp API](https://github.com/T-Lucas43/norium-whatsapp-api) |
 | Fundamentos & trajetória | [Compass · Desafio 01](https://github.com/T-Lucas43/AWS_FS_JUL25_D01_COMPASS_-Desafio_01.-) · [My Website](https://github.com/T-Lucas43/mywebsite) · [Primeiro Repo](https://github.com/T-Lucas43/primeiro-repo) · [Portfólio](https://github.com/T-Lucas43/portifolio) · [Edital UEPA](https://github.com/T-Lucas43/Edital-UEPA) |
 
