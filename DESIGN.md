@@ -1,12 +1,5 @@
-# Identidade visual do perfil
+# Perfil gamer
 
-Composição própria em SVG, com retrato público do titular, órbitas, partículas, terminal, painéis de projetos e fluxo de tecnologias. Não altera a foto nativa do GitHub.
+Tema preto, verde ácido e ciano, com HUD, controle vetorial, tipografia forte e linhas animadas. A única foto exibida é o avatar nativo do GitHub; nenhuma imagem do README contém retrato.
 
-Referências de pesquisa, sem reutilizar seus assets ou código:
-
-- https://github.com/abhisheknaiidu/awesome-github-profile-readme
-- https://ryme.md/
-- https://github.com/saroo98/profile-signal-kit
-- https://github.com/Saviru/GitBanner
-
-O GitHub remove scripts e estilos do HTML do README: https://github.com/github/markup#github-markup. As animações são declarativas dentro das imagens SVG; não há JavaScript executado no perfil nem dependência de geradores remotos.
+O README mantém bio, formação na UEPA, links sociais e projetos. SVGs próprios, sem JavaScript no perfil.
