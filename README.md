@@ -38,4 +38,4 @@ Sou **Tarcísio Lucas**, desenvolvedor full stack e estudante do **7º período 
 
 </details>
 
-<p align="center"><strong>CODE. BUILD. PLAY. REPEAT.</strong><p align="center"><strong>CODE. BUILD. PLAY. REPEAT.</strong><br /><a href="https://www.linkedin.com/in/tarcisio-lucas-io">LinkedIn</a> · <a href="https://www.instagram.com/t__lucas.ai/">Instagram</a> · <a href="https://elares-el-assistant.shardweb.app/">Elares</a></p>
+<p align="center"><strong>CODE. BUILD. PLAY. REPEAT.</strong><br /><a href="https://www.linkedin.com/in/tarcisio-lucas-io">LinkedIn</a> · <a href="https://www.instagram.com/t__lucas.ai/">Instagram</a> · <a href="https://elares-el-assistant.shardweb.app/">Elares</a></p>
