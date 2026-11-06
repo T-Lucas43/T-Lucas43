@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/hero-orbit.svg" alt="Tarcísio Lucas — desenvolvedor full stack. Foto com moldura orbital animada. Engenharia de Software na UEPA, 7º período." width="100%" /></p>
+<p align="center"><picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" /><img src="assets/hero-orbit.svg" alt="Tarcísio Lucas — desenvolvedor full stack. Foto com moldura orbital animada. Engenharia de Software na UEPA, 7º período." width="100%" /></picture></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tarcisio-lucas-io"><img src="assets/linkedin.svg" alt="LinkedIn" width="31%" /></a>
@@ -10,15 +10,15 @@ Sou **Tarcísio Lucas**, desenvolvedor full stack e estudante do **7º período 
 
 <img src="assets/section-work.svg" alt="Projetos em destaque" width="100%" />
 
-<a href="https://github.com/T-Lucas43/Norium-nora"><img src="assets/work-norium.svg" alt="Norium e Nora — organização, colaboração e assistência. Explorar repositório." width="100%" /></a>
+<a href="https://github.com/T-Lucas43/Norium-nora"><picture><source media="(max-width: 600px)" srcset="assets/work-norium-mobile.svg" /><img src="assets/work-norium.svg" alt="Norium e Nora — organização, colaboração e assistência. Explorar repositório." width="100%" /></picture></a>
 
 <p><a href="https://github.com/T-Lucas43/Norium-nora">Norium & Nora ↗</a> &nbsp; / &nbsp; <a href="https://github.com/T-Lucas43/norium-site">Site institucional ↗</a> &nbsp; / &nbsp; <a href="https://github.com/T-Lucas43/norium-whatsapp-api">WhatsApp API ↗</a></p>
 
-<a href="https://github.com/T-Lucas43/elares-beauty"><img src="assets/work-elares.svg" alt="Elares — soluções de gestão. Conhecer Beauty e Barber." width="100%" /></a>
+<a href="https://github.com/T-Lucas43/elares-beauty"><picture><source media="(max-width: 600px)" srcset="assets/work-elares-mobile.svg" /><img src="assets/work-elares.svg" alt="Elares — soluções de gestão. Conhecer Beauty e Barber." width="100%" /></picture></a>
 
 <p><a href="https://github.com/T-Lucas43/elares-beauty">Elares Beauty ↗</a> &nbsp; / &nbsp; <a href="https://github.com/T-Lucas43/barbearia-gestao">Elares Barber ↗</a> &nbsp; / &nbsp; <a href="https://elares-el-assistant.shardweb.app/">Site da Elares ↗</a></p>
 
-<a href="https://github.com/T-Lucas43?tab=repositories"><img src="assets/work-web.svg" alt="Web Experiences — projetos de turismo, serviços e interação." width="100%" /></a>
+<a href="https://github.com/T-Lucas43?tab=repositories"><picture><source media="(max-width: 600px)" srcset="assets/work-web-mobile.svg" /><img src="assets/work-web.svg" alt="Web Experiences — projetos de turismo, serviços e interação." width="100%" /></picture></a>
 
 <p><a href="https://github.com/T-Lucas43/voya-turismo">Voya Turismo ↗</a> &nbsp; / &nbsp; <a href="https://github.com/T-Lucas43/dhages-turismo">D’Hages Turismo ↗</a> &nbsp; / &nbsp; <a href="https://github.com/T-Lucas43/rushLan">Rush LAN ↗</a> &nbsp; / &nbsp; <a href="https://github.com/T-Lucas43/Zona_7">Zona 7 ↗</a> &nbsp; / &nbsp; <a href="https://github.com/T-Lucas43/Site_Camilly">Camilly Oliveira ↗</a></p>
 
